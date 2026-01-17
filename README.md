@@ -1,5 +1,11 @@
-██╗    ██╗ █████╗ ██╗     ██╗     ███████╗██████╗ 
-██║    ██║██╔══██╗██║     ██║     ██╔════╝██╔══██╗
+# Waller
+
+Live animated wallpapers for GNOME (X11) using Hidamari.
+
+## Screenshot
+
+![Waller – Live Animated Wallpaper on GNOME](screenshots/waller-ui.png)
+
 ██║ █╗ ██║███████║██║     ██║     █████╗  ██████╔╝
 ██║███╗██║██╔══██║██║     ██║     ██╔══╝  ██╔══██╗
 ╚███╔███╔╝██║  ██║███████╗███████╗███████╗██║  ██║
