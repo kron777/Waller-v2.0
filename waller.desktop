@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Waller
+Comment=Animated live wallpapers for GNOME
+Exec=python3 -m waller.tray
+Icon=waller
+Terminal=false
+Categories=Utility;Graphics;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+

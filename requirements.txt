@@ -1,0 +1,9 @@
+# Core dependencies for waller (minimal viable set for first version)
+python-mpv>=1.0.6      # python bindings — fallback & future control
+psutil>=5.9            # detect fullscreen apps, processes, etc later
+pystray>=0.19          # system tray icon/menu (nice to have)
+pillow>=10.0           # for loading/processing tray icon image
+
+# Optional / future:
+# pywayland             # if we ever want native wayland without mpvpaper
+# tkinter               # usually comes with python, for simple GUI later

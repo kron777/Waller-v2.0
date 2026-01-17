@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Waller
+Comment=Start Waller tray on login
+Exec=python3 -m waller.tray
+Icon=waller
+Terminal=false
+X-GNOME-Autostart-enabled=true
+
