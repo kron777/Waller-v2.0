@@ -1,15 +1,15 @@
-import gi
-gi.require_version("Gtk", "3.0")
-from gi.repository import Gtk
+#!/usr/bin/env python3
 
-from waller.ui.main_window import WallerWindow
+from waller.waller import run_tray
 
 
 def main():
-    window = WallerWindow()
-    window.connect("destroy", Gtk.main_quit)
-    window.show_all()
-    Gtk.main()
+    """
+    Headless entry point.
+    No Waller GUI is created.
+    This hands control directly to waller.py.
+    """
+    run_tray()
 
 
 if __name__ == "__main__":

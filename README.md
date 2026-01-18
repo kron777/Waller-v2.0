@@ -38,7 +38,27 @@ It acts as a **controller + UX layer** over Hidamari.
 
 ---
 
+## Installation
+
+Waller is designed for **GNOME on X11** (Zorin OS / Ubuntu-based systems).
+
+### Requirements
+- GNOME (X11 session)
+- Flatpak
+- Internet access (first install only)
+
+> Wayland is not supported.
+
+### Install
+
+```bash
+git clone https://github.com/kron777/Waller-v1.0.git
+cd Waller-v1.0
+chmod +x install.sh
+./install.sh
+
 ## 2. System Requirements
+
 
 ### Required
 
