@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Waller
-Comment=Start Waller tray on login
+Comment=Animated desktop wallpapers via Hidamari
 Exec=python3 -m waller.tray
 Icon=waller
 Terminal=false

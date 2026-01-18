@@ -1,4 +1,6 @@
-# Waller
+# Waller v2.0
+Waller is a lightweight, headless launcher that hands off directly to Hidamari to provide animated video wallpapers on GNOME (X11).
+
 
 Live animated wallpapers for GNOME (X11) using Hidamari.
 
